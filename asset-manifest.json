@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux_quiz/static/css/main.e3c32222.css",
+    "main.js": "/redux_quiz/static/js/main.7887848f.js",
+    "static/js/787.8390dbeb.chunk.js": "/redux_quiz/static/js/787.8390dbeb.chunk.js",
+    "index.html": "/redux_quiz/index.html",
+    "main.e3c32222.css.map": "/redux_quiz/static/css/main.e3c32222.css.map",
+    "main.7887848f.js.map": "/redux_quiz/static/js/main.7887848f.js.map",
+    "787.8390dbeb.chunk.js.map": "/redux_quiz/static/js/787.8390dbeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c32222.css",
+    "static/js/main.7887848f.js"
+  ]
+}
